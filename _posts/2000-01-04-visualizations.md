@@ -7,5 +7,7 @@ fa-icon: area-chart
 
 # Visualisations
 
-Link to the github pages with visualisation scrips and the associated help files.
-Also some pretty pictures.
+This page is a placeholder until we migrate our visualisation scripts to 
+github.
+
+It should have a link to each visualisation routine, its docs, and, where appropriate, an example image.
