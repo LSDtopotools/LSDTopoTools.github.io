@@ -1,8 +1,8 @@
 ---
 title: "Download"
-bg: white     #defined in _config.yml, can use html color like '#010101'
+bg: orange     #defined in _config.yml, can use html color like '#010101'
 color: black  #text color
-style: center
+fa-icon: download
 ---
 
 # Get the code here
