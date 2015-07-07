@@ -21,6 +21,7 @@ allow the reproduction of our analysis from each paper.
 |-----|-------|---------------
 |June 2013 | [A statistical framework to quantify spatial variation in channel gradients...](http://onlinelibrary.wiley.com/doi/10.1002/2013JF002981/full) |[Chi analysis](http://csdms.colorado.edu/wiki/Model:Chi_analysis_tools)
 |April 2014 | [Objective extraction of channel heads from high-resolution topographic data](http://onlinelibrary.wiley.com/doi/10.1002/2013WR015167/full) |[DrEICH](http://csdms.colorado.edu/wiki/Model:Chi_analysis_tools)
+|April 2015 | [Topographic roughness...](http://www.earth-surf-dynam-discuss.net/3/371/2015/esurfd-3-371-2015.html) | [Roughness](http://csdms.colorado.edu/wiki/Model:SurfaceRoughness)
 |June 2015 | How long is a hillslope? [in review] | [HFR](http://csdms.colorado.edu/wiki/Model:Hilltop_flow_routing)
 
 ****

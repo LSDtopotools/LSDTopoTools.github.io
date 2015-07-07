@@ -1,7 +1,7 @@
 ---
 title: "Docs"
 bg: gold     #defined in _config.yml, can use html color like '#010101'
-color: black  #text color
+color: white  #text color
 fa-icon: question-circle
 ---
 
