@@ -7,7 +7,9 @@ fa-icon: paragraph
 
 # Publications
 
-List of citations of papers associated with our code along with pdfs where possible
+```
+Clubb FJ, Mudd SM, Milodowski DT, Hurst MD, Slater LJ. 2014. Objective extraction of channel heads from high-resolution topographic data. Water Resources Research 50 : 4283–4304. DOI: 10.1002/2013WR015167
+```
 
 # Conference abstracts
 
