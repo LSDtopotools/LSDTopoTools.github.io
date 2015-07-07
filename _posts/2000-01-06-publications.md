@@ -1,7 +1,7 @@
 ---
 title: "Publications"
-bg: #FF8E00     #defined in _config.yml, can use html color like '#010101'
-color: black  #text color
+bg: #c6     #defined in _config.yml, can use html color like '#010101'
+color: white  #text color
 fa-icon: paragraph
 ---
 
