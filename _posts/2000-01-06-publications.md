@@ -16,5 +16,7 @@ Clubb FJ, Mudd SM, Milodowski DT, Hurst MD, Slater LJ. 2014. Objective extractio
 
 # Conference abstracts
 
-List of conference abstracts here, along with copies of posters/ slides where possible.
-Could also advertise upcoming talks here.
+We also give presentations at conferences and institutions on our research. Here
+is a list of some highlights, along with copies of posters:
+
+**Need a list of abstracts with pdfs to posters where possible**
