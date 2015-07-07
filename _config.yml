@@ -33,6 +33,10 @@ colors:
   purple:    '#c869bf'
   orange:    '#fab125'
   turquoise: '#0fbfcf'
+  corporate_blue: '#041e42'    # official university of edinburgh branding
+  gold: '#85714d'	       # official university of edinburgh branding
+  red:  '#d50032'	       # from university of edinburgh website
+  
   c1: '#041e42'
   c2: '#F17D80'       
   c3: '#737495'
