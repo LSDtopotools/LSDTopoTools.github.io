@@ -1,7 +1,7 @@
 ---
 title: "Visualise"
-bg: blue     #defined in _config.yml, can use html color like '#010101'
-color: white  #text color
+bg: A67C00     #defined in _config.yml, can use html color like '#010101'
+color: black  #text color
 fa-icon: area-chart
 ---
 
