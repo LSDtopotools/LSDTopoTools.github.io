@@ -7,7 +7,7 @@ fa-icon: paragraph
 
 # Publications
 
-Here is a list of papers using LSDTopoToolBox which have been published:
+Here is a list of papers that use LSDTopoTools software:
 
 ## Papers on the algorithms in the software package
 

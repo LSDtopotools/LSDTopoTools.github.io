@@ -5,7 +5,7 @@ color: white  #text color
 fa-icon: download
 ---
 
-# Start using LSDTopoToolBox
+# Start using LSDTopoTools
 
 As the software is constantly evolving and being used to perform cutting edge research
 our main repository is held on a secure server. For access to the latest development
