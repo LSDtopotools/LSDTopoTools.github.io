@@ -7,8 +7,6 @@ fa-icon: paragraph
 
 # Publications
 
-Here is a list of papers that use LSDTopoTools software:
-
 ## Papers on the algorithms in the software package
 
 Milodowski, D. T., S. M. Mudd, and E. T. A. Mitchard (2015b), Topographic roughness as a signature of the emergence of bedrock in eroding landscapes, *Earth Surface Dynamics Discussions*, **3(2)**, 371-416, doi:10.5194/esurfd-3-371-2015.[link](http://www.earth-surf-dynam-discuss.net/3/371/2015/esurfd-3-371-2015.html)
@@ -30,9 +28,21 @@ Hurst, M. D., S. M. Mudd, K. Yoo, M. Attal, and R. Walcott (2013b), Influence of
 Hurst, M. D., S. M. Mudd, R. Walcott, M. Attal, and K. Yoo (2012), Using hilltop curvature to derive the spatial distribution of erosion rates, *Journal of Geophysical Research-Earth Surface*, **117**, F02017, doi:10.1029/2011JF002057.[link](http://onlinelibrary.wiley.com/doi/10.1029/2011JF002057/abstract)
 
 
-# Conference abstracts
+# Conference presentations
 
 We also give presentations at conferences and institutions on our research. Here
-is a list of some highlights, along with copies of posters:
+is a list of some highlights, along with copies of posters where available:
 
-**Need a list of abstracts with pdfs to posters where possible**
+Harel, M.-A., S. Mudd, and M. Attal (2015), Global scale analysis of the stream power law parameters based on worldwide 10Be denudation rates, *EGU General Assembly*, **Abstract vol. 17, p. 1271.**
+
+Clubb, F.J., Mudd, S.M., Milodowski, D.T., Hurst, M.D., and Slater, L.J. (2014) Objective extraction of channel heads from high resolution topographic data, *EGU General Assembly*, **Abstract EGU2014-181. PICO**
+
+Grieve, S. W., S. M. Mudd, and T. C. Hales (2014), How long is a hillslope?, *AGU Fall Meeting Abstracts*, **1, 3588**.[Poster]({{ site.url }}/posters/Grieve_AGU_2014.pdf)
+
+Milodowski, D. T., S. M. Mudd, and E. T. Mitchard (2014), How Does Vegetation Impact Hillslope Response to Changing Channel Incision? Insights into Eco-geomorphological Coupling in the Californian Sierra Nevada and Numerical Landscapes, *AGU Fall Meeting Abstracts*, **1, 3644.**
+
+Mudd, S., M. Attal, D. Milodowski, S. Grieve, and D. Valters (2014), A statistical technique for identifying channels of different steepness in transient landscapes, *EGU General Assembly*, **Abstract 16, p. 15780.**
+
+Valters, D. (2014), Extracting tectonic information using the integral method of river profile analysis: applications along the Wasatch fault, Utah, *EGU General Assembly*, **Abstract 16, p. 16074.**
+
+Hurst, M. D., S. M. Mudd, M. Attal, and G. E. Hilley (2013), Hysteresis in hillslope morphology records landscape growth and decay, *AGU Fall Meeting Abstracts*, **1, 05.**
