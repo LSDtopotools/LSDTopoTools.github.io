@@ -15,7 +15,7 @@ highlighter: pygments
 
 
 ### content configuration ###
-title:       "LSDTopoToolBox"
+title:       "LSDTopoTools"
 keywords:    "Geomorphology, open source, Surface processes, topographic analysis"
 description: "Open source geomorphology software"
 source_link: "https://github.com/LSDtopotools"
