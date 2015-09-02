@@ -9,13 +9,15 @@ fa-icon: download
 
 As the software is constantly evolving and being used to perform cutting edge research
 our main repository is held on a secure server. For access to the latest development
-build please contact the lead developer Simon Mudd (simon.m.mudd _at_ ed.ac.uk) for access. 
+build please contact the lead developer Simon Mudd (simon.m.mudd _at_ ed.ac.uk) for access.
 
 We regularly release stable versions of the package in conjunction with the release of
 papers. These versions are hosted by [CSDMS](http://csdms.colorado.edu/wiki/Main_Page) and
 allow the reproduction of our analysis from each paper.
 
 ## Current Releases
+
+</center>
 
 |**Date** | **Paper** | **Download link**|
 |:-----|:-------:|---------------:|
@@ -25,9 +27,6 @@ allow the reproduction of our analysis from each paper.
 |June 2015| How long is a hillslope? [in review] | [HFR](http://csdms.colorado.edu/wiki/Model:Hilltop_flow_routing)|
 
 ****
-
+</center>
 If you are interested in contributing code, want to request a feature or find any bugs
 please contact us using the details at the bottom of this page.
- 
-
-
