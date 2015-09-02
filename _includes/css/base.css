@@ -34,8 +34,8 @@
 
 	table{
 
-		margin: 50px !important;
-		padding: 50px !important;
+		margin: 0;
+		padding: 0 5%;
 		border: 0;
 		font-size: 100%;
 		font: inherit;
