@@ -17,7 +17,7 @@ allow the reproduction of our analysis from each paper.
 
 ## Current Releases
 
-</center>
+<div align="center">
 
 |**Date** | **Paper** | **Download link**|
 |:-----|:-------:|---------------:|
@@ -26,7 +26,9 @@ allow the reproduction of our analysis from each paper.
 |April 2015| [Topographic roughness...](http://www.earth-surf-dynam-discuss.net/3/371/2015/esurfd-3-371-2015.html) | [Roughness](http://csdms.colorado.edu/wiki/Model:SurfaceRoughness)|
 |June 2015| How long is a hillslope? [in review] | [HFR](http://csdms.colorado.edu/wiki/Model:Hilltop_flow_routing)|
 
+</div>
+
 ****
-</center>
+
 If you are interested in contributing code, want to request a feature or find any bugs
 please contact us using the details at the bottom of this page.
