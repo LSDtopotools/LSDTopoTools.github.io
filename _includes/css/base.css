@@ -34,8 +34,8 @@
 
 	table{
 
-		margin: 50px;
-		padding: 50px;
+		margin: 50px !important;
+		padding: 50px !important;
 		border: 0;
 		font-size: 100%;
 		font: inherit;
@@ -57,7 +57,7 @@
 		content: none; }
 	table {
 		border-collapse: collapse;
-		border-spacing: 10px; }
+		border-spacing: 10px !important; }
 
 
 /* #Basic Styles
