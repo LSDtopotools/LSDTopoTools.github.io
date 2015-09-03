@@ -35,7 +35,7 @@ is a list of some highlights, along with copies of posters where available:
 
 Harel, M.-A., S. Mudd, and M. Attal (2015), Global scale analysis of the stream power law parameters based on worldwide 10Be denudation rates, *EGU General Assembly*, **Abstract vol. 17, p. 1271.**
 
-Clubb, F.J., Mudd, S.M., Milodowski, D.T., Hurst, M.D., and Slater, L.J. (2014) Objective extraction of channel heads from high resolution topographic data, *EGU General Assembly*, **Abstract EGU2014-181. PICO**
+Clubb, F.J., Mudd, S.M., Milodowski, D.T., Hurst, M.D., and Slater, L.J. (2014) Objective extraction of channel heads from high resolution topographic data, *EGU General Assembly*, **Abstract EGU2014-181. PICO** [Click to download interactive presentation (PowerPoint)]({{ site.url }}/posters/PICO-EGU2014-181.pptx)
 
 Grieve, S. W., S. M. Mudd, and T. C. Hales (2014), How long is a hillslope?, *AGU Fall Meeting Abstracts*, **1, 3588**.[Poster]({{ site.url }}/posters/Grieve_AGU_2014.pdf)
 
