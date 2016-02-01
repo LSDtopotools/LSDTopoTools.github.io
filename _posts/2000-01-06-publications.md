@@ -37,6 +37,12 @@ Hurst, M. D., S. M. Mudd, R. Walcott, M. Attal, and K. Yoo (2012), Using hilltop
 We also give presentations at conferences and institutions on our research. Here
 is a list of some highlights, along with copies of posters where available:
 
+Clubb, F.J., Mudd, S.M., Attal, M., Milodowski, D.T., Grieve, S.W.D., 2015a. The Relationship between Drainage Density, Erosion Rate, and Hilltop Curvature: Implications for Sediment Transport Processes. *AGU Fall Meeting*.
+
+Clubb, F.J., Mudd, S.M., Attal, M., Milodowski, D.T., Grieve, S.W.D., 2015b. The Relationship between Drainage Density, Erosion Rate, and Hilltop Curvature: Implications for Sediment Transport Processes. *BSG Annual General Meeting*.
+
+Grieve, S.W.D., Mudd, S.M., Hurst, M.D., 2015. Constraining hillslope sediment flux using high resolution topographic data. *BSG Annual General Meeting*.
+
 Harel, M.-A., S. Mudd, and M. Attal (2015), Global scale analysis of the stream power law parameters based on worldwide 10Be denudation rates, *EGU General Assembly*, **Abstract vol. 17, p. 1271.**
 
 Clubb, F.J., Mudd, S.M., Milodowski, D.T., Hurst, M.D., and Slater, L.J. (2014) Objective extraction of channel heads from high resolution topographic data, *EGU General Assembly*, **Abstract EGU2014-181. PICO** [Download interactive presentation (PowerPoint)]({{ site.url }}/posters/PICO-EGU2014-181.pptx)
