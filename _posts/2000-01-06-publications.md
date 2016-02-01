@@ -9,6 +9,8 @@ fa-icon: paragraph
 
 ## Papers on the algorithms in the software package
 
+Grieve, S.W.D., Mudd, S.M., Hurst, M.D., 2016. How long is a hillslope? *Earth Surface Processes and Landforms.* doi:10.1002/esp.3884 [link](http://onlinelibrary.wiley.com/doi/10.1002/esp.3884/abstract)
+
 Milodowski, D. T., S. M. Mudd, and E. T. A. Mitchard (2015b), Topographic roughness as a signature of the emergence of bedrock in eroding landscapes, *Earth Surface Dynamics Discussions*, **3(2)**, 371-416, doi:10.5194/esurfd-3-371-2015.[link](http://www.earth-surf-dynam-discuss.net/3/371/2015/esurfd-3-371-2015.html)
 
 Mudd, S. M., M. Attal, D. T. Milodowski, S. W. D. Grieve, and D. A. Valters (2014), A statistical framework to quantify spatial variation in channel gradients using the integral method of channel profile analysis, *Journal of Geophysical Research-Earth Surface*, **119(2)**, 138-152, doi:10.1002/2013JF002981.[link](http://onlinelibrary.wiley.com/doi/10.1002/2013JF002981/abstract)
@@ -16,6 +18,8 @@ Mudd, S. M., M. Attal, D. T. Milodowski, S. W. D. Grieve, and D. A. Valters (201
 Clubb, F. J., S. M. Mudd, D. T. Milodowski, M. D. Hurst, and L. J. Slater (2014), Objective extraction of channel heads from high-resolution topographic data, *Water Resources Research*, **50(5)**, 4283-4304, doi:10.1002/2013WR015167.[link](http://onlinelibrary.wiley.com/doi/10.1002/2013WR015167/abstract)
 
 ## Papers that use the software
+
+Grieve, S.W.D., Mudd, S.M., Hurst, M.D., Milodowski, D.T., 2016. A nondimensional framework for exploring the relief structure of landscapes. *Earth Surface Dynamics Discussions* **1–41**. doi:10.5194/esurf-2015-53 [link](http://www.earth-surf-dynam-discuss.net/esurf-2015-53/)
 
 Devrani, R., V. Singh, S. M. Mudd, and H. D. Sinclair (2015), Prediction of flash-flood hazard impact from Himalayan river profiles, Geophys. Res. Lett., 2015GL063784, doi:10.1002/2015GL063784.[link](http://onlinelibrary.wiley.com/doi/10.1002/2015GL063784/full)
 
