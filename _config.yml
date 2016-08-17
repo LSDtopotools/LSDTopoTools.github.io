@@ -7,7 +7,7 @@ safe: false
 
 ### site serving configuration ###
 exclude: [CNAME, README.md, .gitignore]
-permalink: / ## disables post output
+permalink: /:title ## disables post output
 timezone: null
 lsi: false
 markdown: kramdown
@@ -36,12 +36,11 @@ colors:
   corporate_blue: '#041e42'    # official university of edinburgh branding
   gold: '#85714d'	       # official university of edinburgh branding
   red:  '#d50032'	       # from university of edinburgh website
-  
+
   c1: '#041e42'
-  c2: '#F17D80'       
+  c2: '#F17D80'
   c3: '#737495'
   c4: '#68A8AD'
   c5: '#C4D4AF'
   c6: '#6C8672'
-  c7: '#111111' 
-  
+  c7: '#111111'
