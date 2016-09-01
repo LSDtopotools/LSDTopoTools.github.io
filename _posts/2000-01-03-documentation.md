@@ -7,7 +7,7 @@ fa-icon: question-circle
 
 # Documentation
 
-Our user guides can be found [here](http://www.geos.ed.ac.uk/~smudd/LSDTT_docs/html/index.html) which give a high level walkthrough of how to
+Our user guides can be found [here](http://lsdtopotools.github.io/LSDTT_book/) which give a high level walkthrough of how to
 install, configure and use the software for research.
 
 ****
