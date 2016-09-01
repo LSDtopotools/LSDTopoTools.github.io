@@ -18,5 +18,5 @@ to the software package can be found [here](http://www.geos.ed.ac.uk/~s0675405/L
 
 ****
 
-The latest updates to the code can be seen either on [twitter](https://twitter.com/LSDTopoToolbox) or our
+The latest updates to the code can be seen either on [twitter](https://twitter.com/LSDTopoTools) or our
 [trac page](https://sourced.ecdf.ed.ac.uk/projects/geos/LSD_devel/timeline).
