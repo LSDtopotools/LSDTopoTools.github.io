@@ -7,7 +7,7 @@ fa-icon: download
 
 # Start using LSDTopoTools
 
-**LSDTopoTools** works on _any_ operating system. The best way to start is to read the documentation of our [introductory workshop](https://lsdtopotools.github.io/LSDTopoTools_workshop/). Before you do anything, you will need to download and install (in this order) [VirtualBox] (https://www.virtualbox.org/wiki/Downloads) and [Vagrant](https://www.vagrantup.com/). These are both free and open source software packages that work on Windows, Linux and MacOS. 
+**LSDTopoTools** works on _any_ operating system. The best way to start is to read the documentation of our [introductory workshop](https://lsdtopotools.github.io/LSDTopoTools_workshop/). Before you do anything, you will need to download and install (in this order) [VirtualBox](https://www.virtualbox.org/wiki/Downloads) and [Vagrant](https://www.vagrantup.com/). These are both free and open source software packages that work on Windows, Linux and MacOS. 
 
 We regularly release stable versions of the package in conjunction with the release of
 papers. These versions are hosted on our [Github pages](https://github.com/LSDtopotools) and
