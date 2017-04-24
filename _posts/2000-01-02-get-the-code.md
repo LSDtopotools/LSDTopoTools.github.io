@@ -7,13 +7,15 @@ fa-icon: download
 
 # Start using LSDTopoTools
 
-As the software is constantly evolving and being used to perform cutting edge research
-our main repository is held on a secure server. For access to the latest development
-build please contact the lead developer Simon Mudd (simon.m.mudd _at_ ed.ac.uk) for access.
+**LSDTopoTools** works on _any_ operating system. The best way to start is to read the documentation of our [introductory workshop](https://lsdtopotools.github.io/LSDTopoTools_workshop/). Before you do anything, you will need to download and install (in this order) [VirtualBox] (https://www.virtualbox.org/wiki/Downloads) and [Vagrant](https://www.vagrantup.com/). These are both free and open source software packages that work on Windows, Linux and MacOS. 
 
 We regularly release stable versions of the package in conjunction with the release of
-papers. These versions are hosted by [CSDMS](http://csdms.colorado.edu/wiki/Main_Page) and
+papers. These versions are hosted on our [Github pages](https://github.com/LSDtopotools) and
 allow the reproduction of our analysis from each paper.
+
+As the software is constantly evolving and being used to perform cutting edge research
+our main repository is held on a private github repository. If you are interested in accessing the latest development
+build please contact the lead developer Simon Mudd (simon.m.mudd _at_ ed.ac.uk).
 
 ****
 

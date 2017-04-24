@@ -21,6 +21,12 @@ Clubb, F. J., S. M. Mudd, D. T. Milodowski, M. D. Hurst, and L. J. Slater (2014)
 
 ## Papers that use the software
 
+H.D. Sinclair, S.M. Mudd, E. Dingle, D.E.J. Hobley, R. Robinson, R. Walcott (2017) Squeezing River Catchments Through Tectonics: Shortening and Erosion across the Indus Valley, NW Himalaya, *GSA Bulletin*, 129(1-2), 203-217, doi:10.1130/B31435.1. [LINK](http://gsabulletin.gsapubs.org/content/129/1-2/203)
+
+S.M. Mudd (2017), Detection of transience in eroding landscapes. *Earth Surf. Process. Landforms*, 42(1), 24-41, doi:10.1002/esp.3923. [LINK](http://onlinelibrary.wiley.com/doi/10.1002/esp.3923/abstract)
+
+F.J. Clubb, S.M. Mudd, M. Attal, D.T. Milodowski, S.W.D. Grieve (2016), The relationship between drainage density, erosion rate, and hilltop curvature: implications for sediment transport processes, *Journal of Geophysical Research-Earth Surface*, 121(10), DOI: 10.1002/2015JF003747. [LINK](http://onlinelibrary.wiley.com/doi/10.1002/2015JF003747/full)
+
 Harel, M. -A., S. M. Mudd, and M. Attal (2016), Global analysis of the stream power law parameters based on worldwide ^10^Be denudation rates, *Geomorphology*, 268, 184-196, doi:10.1016/j.geomorph.2016.05.035. [LINK](http://www.sciencedirect.com/science/article/pii/S0169555X16303907)
 
 Mudd, S. M. (2016) Detection of transience in eroding landscapes, *Earth Surf. Process. Land.*, doi:10.1002/esp.3923. [LINK](http://onlinelibrary.wiley.com/doi/10.1002/esp.3923/full)
