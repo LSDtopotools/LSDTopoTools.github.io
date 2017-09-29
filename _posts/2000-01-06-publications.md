@@ -9,6 +9,8 @@ fa-icon: paragraph
 
 ## Papers on the algorithms in the software package
 
+Clubb, F.J., S. M. Mudd, D. T. Milodowski, D. A. Valters, L. J. Slater, M.D. Hurst, and A. B. Limaye (2017), Geomorphometric delineation of floodplains and terraces from objectively defined topographic thresholds *Earth Surf. Dynam.*, **5**, 369-385, doi:10.5194/esurf-5-369-2017. [LINK](https://www.earth-surf-dynam.net/5/369/2017/esurf-5-369-2017.html)
+
 Mudd, S. M., M. -A. Harel, M. D. Hurst, S. W. D. Grieve, and S. M. Marrero (2016), The CAIRN method: automated, reproducible calculation of catchment-averaged denudation rates from cosmogenic nuclide concentrations, *Earth Surf. Dynam.*, **4**, 655-674, doi:10.5194/esurf-4-655-2016. [LINK](http://www.earth-surf-dynam.net/4/655/2016/esurf-4-655-2016.html)
 
 Grieve, S. W. D., S. M. Mudd, and M. D. Hurst, (2016), How long is a hillslope? *Earth Surf. Process. Land.*, **41**, 1039-1054, doi:10.1002/esp.3884. [LINK](http://onlinelibrary.wiley.com/doi/10.1002/esp.3884/abstract)
@@ -25,7 +27,7 @@ H.D. Sinclair, S.M. Mudd, E. Dingle, D.E.J. Hobley, R. Robinson, R. Walcott (201
 
 S.M. Mudd (2017), Detection of transience in eroding landscapes. *Earth Surf. Process. Landforms*, 42(1), 24-41, doi:10.1002/esp.3923. [LINK](http://onlinelibrary.wiley.com/doi/10.1002/esp.3923/abstract)
 
-F.J. Clubb, S.M. Mudd, M. Attal, D.T. Milodowski, S.W.D. Grieve (2016), The relationship between drainage density, erosion rate, and hilltop curvature: implications for sediment transport processes, *Journal of Geophysical Research-Earth Surface*, 121(10), DOI: 10.1002/2015JF003747. [LINK](http://onlinelibrary.wiley.com/doi/10.1002/2015JF003747/full)
+Clubb, F.J., S.M. Mudd, M. Attal, D.T. Milodowski, S.W.D. Grieve (2016), The relationship between drainage density, erosion rate, and hilltop curvature: implications for sediment transport processes, *Journal of Geophysical Research-Earth Surface*, 121(10), DOI: 10.1002/2015JF003747. [LINK](http://onlinelibrary.wiley.com/doi/10.1002/2015JF003747/full)
 
 Harel, M. -A., S. M. Mudd, and M. Attal (2016), Global analysis of the stream power law parameters based on worldwide ^10^Be denudation rates, *Geomorphology*, 268, 184-196, doi:10.1016/j.geomorph.2016.05.035. [LINK](http://www.sciencedirect.com/science/article/pii/S0169555X16303907)
 
@@ -48,6 +50,8 @@ Hurst, M. D., S. M. Mudd, R. Walcott, M. Attal, and K. Yoo (2012), Using hilltop
 
 We also give presentations at conferences and institutions on our research. Here
 is a list of some highlights, along with copies of posters where available:
+
+Clubb, F.J., S. M. Mudd, D. T. Milodowski, D. A. Valters, L. J. Slater, and M.D. Hurst (2016) Geomorphometric delineation of floodplains and terraces from slope and channel relief thresholds *AGU Fall Meeting*  [Poster]({{ site.url }}/posters/Clubb_AGU_2016.pdf)
 
 Mudd, S. M., M. D. Hurst, S. W. D. Grieve, F. J. Clubb, D. T. Milodowski, and M. Attal (2016), Detecting geomorphic processes and change with high resolution topographic data. *EGU General Assembly*.
 
