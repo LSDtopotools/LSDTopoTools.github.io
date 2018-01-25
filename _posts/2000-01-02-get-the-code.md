@@ -7,19 +7,28 @@ fa-icon: download
 
 # Start using LSDTopoTools
 
-**LSDTopoTools** works on _any_ operating system. The best way to start is to read the documentation of our [introductory workshop](https://lsdtopotools.github.io/LSDTopoTools_workshop/). Before you do anything, you will need to download and install (in this order) [VirtualBox](https://www.virtualbox.org/wiki/Downloads) and [Vagrant](https://www.vagrantup.com/). These are both free and open source software packages that work on Windows, Linux and MacOS. 
+**LSDTopoTools** works on _any_ operating system. The best way to start is to read the documentation of our [installation instructions](https://lsdtopotools.github.io/LSDTT_documentation/LSDTT_installation.html) and then move on to [our first examples](https://lsdtopotools.github.io/LSDTT_documentation/LSDTT_basic_usage.html). You can install natively on Linux, or you can use either [Vagrant and Virtual Box](https://lsdtopotools.github.io/LSDTT_documentation/LSDTT_installation.html#_installing_lsdtopotools_using_virtualbox_and_vagrant) or [Docker](https://lsdtopotools.github.io/LSDTT_documentation/LSDTT_installation.html#_installing_lsdtopotools_using_docker) on any operating system. 
 
 We regularly release stable versions of the package in conjunction with the release of
 papers. These versions are hosted on our [Github pages](https://github.com/LSDtopotools) and
-allow the reproduction of our analysis from each paper.
+allow the reproduction of our analysis from our scientific papers.
 
 As the software is constantly evolving and being used to perform cutting edge research
 our main repository is held on a private github repository. If you are interested in accessing the latest development
 build please contact the lead developer Simon Mudd (simon.m.mudd _at_ ed.ac.uk).
 
+We also have python scripts to [visualise LSDTopoTools output](https://lsdtopotools.github.io/LSDTT_documentation/LSDTT_visualisation.html)
+
 ****
 
 ## Current Releases
+
+Many of our software releases have their own doi. See our [zenodo page for citable packages](https://zenodo.org/communities/lsdtopotools)
+
+Below is a list of github repositories that store differnt LSDTopoTools components, along with the relevant papers. 
+
+If you use our code in a scientific paper please cite the relevant package using the [zenodo doi](https://zenodo.org/communities/lsdtopotools) and if appropriate the paper that introduced the algorithms. 
+
 
 |**Date** | **Paper** | **Download link**|
 |:-----|:-------:|---------------:|
@@ -35,5 +44,4 @@ build please contact the lead developer Simon Mudd (simon.m.mudd _at_ ed.ac.uk).
 
 ****
 
-If you are interested in contributing code, want to request a feature or find any bugs
-please contact us using the details at the bottom of this page.
+If you are interested in contributing code, want to request a feature or find any bugs please post them on the respective github issues page (preferred) or contact us using the details at the bottom of this page.
