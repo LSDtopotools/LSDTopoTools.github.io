@@ -18,7 +18,7 @@ If you are just starting, you should read the documentation for our [installatio
 ****
 
 Our API which documents the code provides lower level guidance to users who wish to contribute 
-to the software package can be found [here](https://lsdtopotools.github.io/LSDTopoTools_ChannelExtraction/) NOTE: This only applies to the channel extraction code. We are working on a more complete version to be released in the future. 
+to the software package can be found [here](https://lsdtopotools.github.io/LSDTT_public/). 
 
 
 ****
